@@ -34,3 +34,4 @@ C:\Users\Deakay\source\repos\ApiGatewayMicroservice\Weather.API\obj\Debug\net8.0
 C:\Users\Deakay\source\repos\ApiGatewayMicroservice\Weather.API\obj\Debug\net8.0\Weather.API.pdb
 C:\Users\Deakay\source\repos\ApiGatewayMicroservice\Weather.API\obj\Debug\net8.0\Weather.API.genruntimeconfig.cache
 C:\Users\Deakay\source\repos\ApiGatewayMicroservice\Weather.API\obj\Debug\net8.0\ref\Weather.API.dll
+C:\Users\Deakay\source\repos\ApiGatewayMicroservice\Weather.API\obj\Debug\net8.0\Weather.API.sourcelink.json

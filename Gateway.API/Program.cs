@@ -8,9 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 //builder.Services.AddEndpointsApiExplorer();
 builder.Configuration.AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
 builder.Services.AddOcelot();
-builder.Services.AddCors(o =>
+builder.Services.AddCors(options =>
 {
-    o.AddDefaultPolicy(builder =>
+    options.AddDefaultPolicy(builder =>
     {
         builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
     });
